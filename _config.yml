@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinhua Piao"
+title                    : "Tae Hoon Kweon"
 description              : "Focusing on machine learning adoption in real-world healthcare domain. "
-repository               : "qkrdmsghk/qkrdmsghk.github.io"
+repository               : "taehoonkweon/taehoonkweon.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yinhua Piao"
-  avatar           : "images/yinhua_piao.jpeg"
+  name             : "Tae Hoon Kweon"
+  avatar           : #"images/yinhua_piao.jpeg"
   bio              : "Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mQEG6VcAAAAJ"
-  email            : "yinhuapark@naver.com"
+  email            : "xogns225@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "assets/Academic_CV.pdf"
+  uri              :  # "assets/Academic_CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qkrdmsghk"
+  github           : "taehoonkweon"
   google_plus      :
   keybase          :
   instagram        :
