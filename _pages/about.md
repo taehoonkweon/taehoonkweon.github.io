@@ -10,12 +10,12 @@ redirect_from:
 
 <div style="font-family: 'Segoe UI', Roboto, sans-serif;">
 
-  <h2 style="font-size: 28px; color: #2C3E50; margin-bottom: 5px;">👩🏻‍💻Tae Hoon Kweon</h2>
+  <h2 style="font-size: 28px; color: #2C3E50; margin-bottom: 5px;">🧑🏻‍💻Tae Hoon Kweon</h2>
   <!-- <p style="font-size: 16px; color: #7F8C8D; margin-top: 0;">Postdoctoral Researcher | Biomedical AI & Generalizable Graph Learning</p> -->
 
   <p>Hi, I am Tae Hoon. I completed Masters in Computer Science and Engineering at Seoul National University, advised by 
     <a href="https://bhi-kimlab.github.io/" target="_blank" style="color:rgb(34, 73, 230); text-decoration:none;"><strong>Prof. Sun Kim</strong></a> 
-    in the <a href="https://bhi-kimlab.github.io/" target="_blank" style="color:rgb(34, 73, 230); text-decoration:none;">Bio & Health Informatics (BHI) Lab</a>. My research lies at the intersection of generative model, precision medicine in cancer, and AI-driven drug discovery. 
+    in the <a href="https://bhi-kimlab.github.io/" target="_blank" style="color:rgb(34, 73, 230); text-decoration:none;">Bio & Health Informatics (BHI) Lab</a>. My research focuses on <strong>generative model, precision medicine in cancer, and AI-based drug discovery.</strong>
 
 <!-- <h2 style="color: #2C3E50;">🔬 Recent Research Focus</h2>
 <ul style="margin-left: -1em;">
@@ -34,13 +34,13 @@ redirect_from:
     <strong style="color: #9B51E0;">reliable healthcare</strong>, and impactful 
     <strong style="color: #E74C3C;">real-world biomedical applications</strong>.
   </p>
-</div> -->
+</div>
 
 </div>
 
 <h2 style="font-size: 28px; color: #2C3E50; margin-bottom: 5px;">🔥 News</h2>
 <ul style="margin-left: -1em;">  
-  <li> 🎓 <strong style="color: #D56D53">[Aug. 2025]</strong> I successfully defended my M.S.! -- "SBpurify: In silico Purification of Tumor Gene Expression Level via Schrodinger Bridge Solver".  
+  <li> 🎓 <strong style="color: #D56D53">[Aug. 2025]</strong> I successfully defended my M.S.! -- "SBpurify: In silico Purification of Tumor Gene Expression Level via Schrödinger Bridge Solver".  
 
   <li> 🎉 <strong style="color: #D56D53">[June 2024]</strong> A paper was accepted by @KCC 2024.</li>
 </li>
@@ -72,8 +72,8 @@ redirect_from:
 <h2 style="font-size: 28px; color: #2C3E50; margin-bottom: 5px;">🎖 Awards</h2>
 
 <ul style="margin-left: -1em">
-<li> <strong style="color: #D56D53">[Feb. 2021]</strong> Youtube Creator Growth Prediction (Final Project), SMHRD.</li> <a href="https://github.com/taehoonkweon/creator_growth_prediction">[code]</a>
-<li> <strong style="color: #D56D53">[Jan. 2021]</strong> Personal Income Classification (Kaggle Competition), SMHRD.</li> <a href="https://github.com/taehoonkweon/kaggle_project">[code]</a>
+<li> <strong style="color: #D56D53">[Feb. 2021]</strong> Youtube Creator Growth Prediction (Final Project), <a href="https://smhrd.or.kr/">SMHRD.</a></li> <a href="https://github.com/taehoonkweon/creator_growth_prediction">[code]</a>
+<li> <strong style="color: #D56D53">[Jan. 2021]</strong> Personal Income Classification (Kaggle Competition), <a href="https://smhrd.or.kr/">SMHRD.</a></li> <a href="https://github.com/taehoonkweon/kaggle_project">[code]</a>
 
 
 <h2 style="font-size: 28px; color: #2C3E50; margin-bottom: 5px;">📖 Educations</h2>
