@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tae Hoon Kweon"
-  avatar           : "images/github_photo.jpeg"
+  avatar           : "images/cropped_github_photo.png"
   bio              : "Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
